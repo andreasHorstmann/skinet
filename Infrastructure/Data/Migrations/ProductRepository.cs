@@ -40,4 +40,4 @@ namespace Infrastructure.Data.Migrations
             return await _context.ProductTypes.ToListAsync();
         }
     }
-}ö
+}
